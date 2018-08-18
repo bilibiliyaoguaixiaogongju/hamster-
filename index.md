@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/bilibiliyaoguaixiaogongju/hamster-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bilibiliyaoguaixiaogongju/hamster-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## （1）禁止喂食人吃的食物，盐份过高，调味过重，会增加鼠儿身体负担。
+## （2）禁止直接接触太阳，鼠儿们非常怕热，夏天到了，请使用散热片，或大理石为他们消暑。
+## （3）禁止水洗鼠儿身体。鼠鼠要用专业仓鼠用的浴沙洗澡。
+## （4）请了解自家鼠儿品种，独居鼠儿或不同品种禁止合笼饲养。
+## （5）若无心理准备或是经济能力，请勿将母鼠、公鼠合笼饲养，鼠儿繁殖能力非常可观。
+## （6）禁止不健康，来路不明的饲料，生虫或发霉请丢弃，不要喂食。
+## （7）禁止让鼠儿们饮用生水，请让他们喝煮沸过的冷白开。
+## （8）禁止使用竹筷、棒冰棍等东西让鼠儿们磨牙，请使用市面上鼠儿专用的磨牙用品、饲料。
+## （9）禁止使用报纸、面纸等做垫材。报纸油墨过多，面纸内含有漂白剂。
+## （10）禁止将鼠儿养在过小的空间，空间至少要有滚轮，水瓶、食盆、小窝等仓鼠平常需要的日用用品。
+## （11）鼠儿繁殖能力很强 尽量不要混养 要注意公母分笼。
+## （12）不要用小田园饲养，会得抑郁症的。
+## 到这里就结束了，部分为转载。如果有需要请联系我，QQ：1758376493
